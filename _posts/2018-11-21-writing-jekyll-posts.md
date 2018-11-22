@@ -1,6 +1,7 @@
 ---
-layout: posts
+layout: single
 title:  "Welcome to Jekyll!"
+comments: true
 ---
 
 # Welcome
